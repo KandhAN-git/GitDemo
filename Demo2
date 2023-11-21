@@ -1,0 +1,3 @@
+values = [1, 2, "Hari", 4, 5]
+
+print (values[0])
